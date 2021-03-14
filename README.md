@@ -14,6 +14,9 @@ To show understanding of node
 
 ## **Folder 07-Movie App**:
 
+Clone this repo here: https://github.com/ndoan24/Movie-App.git
+
+
 
 ![GitHub Logo](images/Movie-App-Node.png)
 Format: ![Server.JS Code](https://github.com/ndoan24/Movie-App/blob/main/server.js)
